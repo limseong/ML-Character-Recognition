@@ -6,4 +6,5 @@ h5py
 pillow
 imageio
 jsonpickle
-tensorflow==1.15.0
+tensorflow==1.14.0
+opencv-python
